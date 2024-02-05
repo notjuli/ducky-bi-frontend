@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 智能 BI
 
 This project is initialized with [智能 BI](https://pro.ant.design). Follow is the quick guide for how to use.
@@ -54,4 +56,10 @@ npm test
 
 ## More
 
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+# You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+
+# ducky-bi-frontend
+
+Ducky BI：基于 React + SpringBoot + AIGC 实现的智能数据分析平台
+
+> > > > > > > ecaff364eac3f429cb09dce895b7c54dea10be5e
